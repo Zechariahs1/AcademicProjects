@@ -1,2 +1,2 @@
 # AcademicProjects
-Repository of Major Academic Projects In my College experience
+Repository of Major Academic Projects that I had contributed to during University
